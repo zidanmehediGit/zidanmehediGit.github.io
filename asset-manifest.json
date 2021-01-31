@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/zidanmehediGit.github.io/static/css/main.d6f16809.chunk.css",
+    "main.js": "/zidanmehediGit.github.io/static/js/main.24cfd6e2.chunk.js",
+    "main.js.map": "/zidanmehediGit.github.io/static/js/main.24cfd6e2.chunk.js.map",
+    "runtime-main.js": "/zidanmehediGit.github.io/static/js/runtime-main.918ec440.js",
+    "runtime-main.js.map": "/zidanmehediGit.github.io/static/js/runtime-main.918ec440.js.map",
+    "static/js/2.37cec042.chunk.js": "/zidanmehediGit.github.io/static/js/2.37cec042.chunk.js",
+    "static/js/2.37cec042.chunk.js.map": "/zidanmehediGit.github.io/static/js/2.37cec042.chunk.js.map",
+    "index.html": "/zidanmehediGit.github.io/index.html",
+    "static/css/main.d6f16809.chunk.css.map": "/zidanmehediGit.github.io/static/css/main.d6f16809.chunk.css.map",
+    "static/js/2.37cec042.chunk.js.LICENSE.txt": "/zidanmehediGit.github.io/static/js/2.37cec042.chunk.js.LICENSE.txt",
+    "static/media/Mehedi_Hassan_Zidan.ed386de9.pdf": "/zidanmehediGit.github.io/static/media/Mehedi_Hassan_Zidan.ed386de9.pdf",
+    "static/media/Mehedi__Hassan__Zidan.76ec106c.pdf": "/zidanmehediGit.github.io/static/media/Mehedi__Hassan__Zidan.76ec106c.pdf",
+    "static/media/Zidan Bro.c6d0ea3c.jpeg": "/zidanmehediGit.github.io/static/media/Zidan Bro.c6d0ea3c.jpeg",
+    "static/media/css.9d56f943.png": "/zidanmehediGit.github.io/static/media/css.9d56f943.png",
+    "static/media/index.css": "/zidanmehediGit.github.io/static/media/darkWallpaper-min-min.7d8ff998.jpg",
+    "static/media/js.afcba61e.png": "/zidanmehediGit.github.io/static/media/js.afcba61e.png",
+    "static/media/laravel.8b2939ca.png": "/zidanmehediGit.github.io/static/media/laravel.8b2939ca.png",
+    "static/media/loader2.cfc783bb.gif": "/zidanmehediGit.github.io/static/media/loader2.cfc783bb.gif",
+    "static/media/php.e78fd4b4.png": "/zidanmehediGit.github.io/static/media/php.e78fd4b4.png",
+    "static/media/react.06fec591.png": "/zidanmehediGit.github.io/static/media/react.06fec591.png",
+    "static/media/z3.a295fc74.jpg": "/zidanmehediGit.github.io/static/media/z3.a295fc74.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.918ec440.js",
+    "static/js/2.37cec042.chunk.js",
+    "static/css/main.d6f16809.chunk.css",
+    "static/js/main.24cfd6e2.chunk.js"
+  ]
+}
